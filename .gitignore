@@ -1,0 +1,32 @@
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+.DS_Store
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.zip
+*.json
+
+# System files and logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
