@@ -151,7 +151,7 @@ DATA_PATH = "/your/data/path"
 
 4. **Run the analysis:**
 ```bash
-jupyter notebook COMP395Assignment2Analysis.ipynb
+jupyter notebook simpsons-episode-popularity-analysis.ipynb
 ```
 
 ---
@@ -160,7 +160,7 @@ jupyter notebook COMP395Assignment2Analysis.ipynb
 
 ```
 .
-├── COMP395Assignment2Analysis.ipynb  # Main analysis notebook
+├── simpsons-episode-popularity-analysis.ipynb  # Main analysis notebook
 ├── images/                        # Generated visualizations
 │   ├── popularity_distribution.png
 │   ├── correlation_chart.png
