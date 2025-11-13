@@ -130,7 +130,7 @@ pip install -r requirements.txt
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/simpsons-popularity-prediction.git
+git clone https://github.com/EshanPrakash/simpsons-popularity-prediction.git
 cd simpsons-popularity-prediction
 ```
 
